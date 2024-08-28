@@ -11,8 +11,12 @@
             "id": "6736fee7b8f06e0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Guides/A Students Guide (2020).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardware/Frontier.md",
+                "file": "Guides/A Students Guide (2020).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware/Frontier.md",
+                "file": "Guides/A Students Guide (2020).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware/Frontier.md"
+                "file": "Guides/A Students Guide (2020).md"
               }
             }
           }
@@ -142,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e6a5dcef2aa3fe5",
+  "active": "6736fee7b8f06e0f",
   "lastOpenFiles": [
+    "_OLD/EinsteinToolkit/Simplifying Complex Software Assembly.md",
+    "_OLD/EinsteinToolkit/Intro to Einstein Toolkit.md",
+    "_OLD/EinsteinToolkit/Einstein Toolkit!.md",
+    "_OLD/EinsteinToolkit/Coupling of Einstein and Hydrodynamics  Evolution.md",
+    "_OLD/EinsteinToolkit/An introduction to Einstein Toolkit.md",
     "Hardware/Frontera.md",
     "Hardware/Frontier.md",
     "Hardware/Facilities.md",
@@ -155,15 +164,10 @@
     "Resources",
     "Resources/Techniques in BNS.md",
     "Guides/A Students Guide (2020).md",
-    "_OLD/EinsteinToolkit/An introduction to Einstein Toolkit.md",
     "Einstein Toolkit.md",
     "Guides",
     "_OLD",
-    "_OLD/EinsteinToolkit/Einstein Toolkit!.md",
     "_OLD/Mathematical Formalism/Three Plus 1 Formalism.md",
-    "_OLD/EinsteinToolkit/Simplifying Complex Software Assembly.md",
-    "_OLD/EinsteinToolkit/Coupling of Einstein and Hydrodynamics  Evolution.md",
-    "_OLD/EinsteinToolkit/Intro to Einstein Toolkit.md",
     "_OLD/Mathematical Formalism/Numerical Relativity 1.md",
     "Welcome.md",
     "_OLD/Mathematical Formalism",
