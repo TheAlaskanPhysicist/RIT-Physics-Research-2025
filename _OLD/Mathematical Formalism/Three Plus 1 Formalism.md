@@ -1,1 +1,0 @@
-https://www2.yukawa.kyoto-u.ac.jp/~yuichiro.sekiguchi/3+1.pdf

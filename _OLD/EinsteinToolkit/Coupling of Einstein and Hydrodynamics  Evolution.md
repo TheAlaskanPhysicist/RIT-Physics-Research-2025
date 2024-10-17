@@ -1,1 +1,0 @@
-https://www.cct.lsu.edu/~eschnett/doc/Karlsruhe-2008-CBHPC-EinsteinToolkit.pdf

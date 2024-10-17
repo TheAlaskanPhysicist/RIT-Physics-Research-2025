@@ -1,1 +1,0 @@
-https://www.cct.lsu.edu/~eschnett/doc/Rochester-2010-EinsteinToolkit.pdf
